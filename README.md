@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- -->
-# Opa, eae, tudo bom? Sou Caio Anderson Ribeiro  
+ --> 
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioribeirodev&layout=compact&langs_count=7&theme=dark"/>
 
