@@ -1,22 +1,49 @@
-<!-- ### Hi there 👋 -->
-<!-- 
-**CaioRibeiroDev/CaioRibeiroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou o Caio Ribeiro</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desenvolvedor Fullstack | React, Node.js, TypeScript
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- --> 
+---
 
-<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioribeirodev&layout=compact&langs_count=7&theme=dark"/> -->
+### 🚀 Sobre mim
+Sou um desenvolvedor apaixonado por criar soluções funcionais e elegantes.  
+Tenho experiência em **React, Node.js e TypeScript**, com foco em construir aplicações web performáticas, organizadas e escaláveis.  
+Atualmente, estou aprimorando meus conhecimentos e buscando **minha próxima oportunidade como desenvolvedor**.
 
+---
+
+### 🧠 Tecnologias que domino
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,tailwind,styledcomponents,git,github,vite,vercel" />
 </div>
+
+---
+
+### 📂 Projetos em destaque
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [**SFXCall Agendamentos**](https://github.com/CaioRibeiroDev/sfx-call) | Sistema para nutricionistas receberem dados de clientes via formulário integrado | React, TypeScript |
+| [**Sistema de Pagamentos**](https://github.com/CaioRibeiroDev/api-payment-mercadopago) | Integração com Mercado Pago para pagamentos online | React, Node.js |
+| [**Design System**](https://github.com/CaioRibeiroDev/design-system) | Página moderna com animações e design responsivo | React, Tailwind |
+
+---
+
+### 📊 Estatísticas
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?caioribeirodev&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?caioribeirodev&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 🌐 Onde me encontrar
+<div align="center">
+  <a href="https://instagram.com/caioribeiro.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caioribeirodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caioribeirodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 <!--  <div style="display: inline_block;"><br>
  <img align="center" alt="caioribeirodev-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -29,12 +56,4 @@ Here are some ideas to get you started:
  <img align="center" alt="caioribeirodev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div> -->
   
-  ##
- 
-<div>  
-  <a href="https://instagram.com/caioribeiro.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caioribeirodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caioribeirodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <!--  ![Snake animation](https://github.com/CaioRibeiroDev/CaioRibeiroDev/blob/output/github-contribution-grid-snake.svg) -->
