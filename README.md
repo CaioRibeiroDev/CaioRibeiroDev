@@ -30,11 +30,11 @@ Atualmente, estou aprimorando meus conhecimentos e buscando **minha próxima opo
 ---
 
 ### 📊 Estatísticas
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?caioribeirodev&show_icons=true&theme=tokyonight&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?caioribeirodev&layout=compact&theme=tokyonight"/>
-</div>
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caioribeirodev&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioribeirodev&layout=compact&theme=tokyonight"/>
+</div>
 ---
 
 ### 🌐 Onde me encontrar
